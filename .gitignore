@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Secrets & wallet material — never commit keys
+*.key
+*.keypair
+id.json
+keypair.json
+read-only-key.json
+.env
+.env.local
+
+# Local ledger / config / data dir (in case EARN_HOME ever points at the repo)
+.earn/
+earn-data/
+ledger.json
+config.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log

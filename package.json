@@ -1,0 +1,38 @@
+{
+  "name": "earn",
+  "version": "1.0.0",
+  "description": "A terminal-based Gibwork bounty hunter's ledger — discover, track, sync, and report on real Gibwork bounties from your terminal.",
+  "type": "module",
+  "bin": {
+    "earn": "dist/bin.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/bin.js",
+    "dev": "node --experimental-strip-types src/bin.ts",
+    "clean": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\""
+  },
+  "keywords": [
+    "gibwork",
+    "solana",
+    "bounty",
+    "cli",
+    "sdk",
+    "terminal",
+    "ledger"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@gibwork/sdk": "0.2.0",
+    "@solana/web3.js": "^1.98.4",
+    "commander": "^14.0.2",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}

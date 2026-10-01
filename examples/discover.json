@@ -1,0 +1,231 @@
+{
+  "ok": true,
+  "data": {
+    "environment": "production",
+    "fetched": 10,
+    "matched": 10,
+    "sort": "score",
+    "bounties": [
+      {
+        "id": "7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
+        "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
+        "url": "https://gib.work/bounty/7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-10-01T00:10:18.528Z",
+        "deadline": "2026-10-15T03:59:00.000Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "30000000",
+        "rewardHuman": 30,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 1,
+        "maxSubmissions": 30,
+        "slotsRemaining": 29,
+        "requiresPremium": true,
+        "score": 98
+      },
+      {
+        "id": "25ab1f78-6afd-4e59-aa89-10e9c19fe304",
+        "title": "Create an X thread and IronVaults vault",
+        "url": "https://gib.work/bounty/25ab1f78-6afd-4e59-aa89-10e9c19fe304",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-30T15:43:18.790Z",
+        "deadline": "2026-10-14T14:34:43.452Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "100000000",
+        "rewardHuman": 100,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 16,
+        "maxSubmissions": 150,
+        "slotsRemaining": 134,
+        "requiresPremium": false,
+        "score": 93
+      },
+      {
+        "id": "d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
+        "title": "Invite Users, Earn Points, and Climb the Leaderboard",
+        "url": "https://gib.work/bounty/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-24T20:19:14.175Z",
+        "deadline": "2026-10-14T20:00:00.000Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "125000000",
+        "rewardHuman": 125,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 58,
+        "maxSubmissions": 5000,
+        "slotsRemaining": 4942,
+        "requiresPremium": false,
+        "score": 80
+      },
+      {
+        "id": "d13c8c10-ad64-407c-a504-e3760abb0ff0",
+        "title": "Engage with the BASIS ETF Flows Report — Retweet, Like & Comment",
+        "url": "https://gib.work/bounty/d13c8c10-ad64-407c-a504-e3760abb0ff0",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-29T09:33:24.662Z",
+        "deadline": "2026-10-13T09:24:52.202Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "100000000",
+        "rewardHuman": 100,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 320,
+        "maxSubmissions": null,
+        "slotsRemaining": null,
+        "requiresPremium": false,
+        "score": 49
+      },
+      {
+        "id": "91dd2813-b2a0-4a05-88b8-818ceba19a21",
+        "title": "How Long Have You Been Staking on BASIS? Pick ONE angle",
+        "url": "https://gib.work/bounty/91dd2813-b2a0-4a05-88b8-818ceba19a21",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-29T06:36:40.229Z",
+        "deadline": "2026-10-13T06:29:40.453Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "150000000",
+        "rewardHuman": 150,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 337,
+        "maxSubmissions": null,
+        "slotsRemaining": null,
+        "requiresPremium": false,
+        "score": 48
+      },
+      {
+        "id": "d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
+        "title": "Create an X Thread About the Gibwork Mobile App Bounty",
+        "url": "https://gib.work/bounty/d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-28T15:53:56.037Z",
+        "deadline": "2026-11-27T05:00:00.000Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "200000000000",
+        "rewardHuman": 200,
+        "rewardSymbol": "CREDITS",
+        "rewardMint": "29bHTjaAH8VCLbsSxeGKFr3YeoQWf6BkStTgnCJmGsRT",
+        "decimals": 9,
+        "totalSubmissions": 35,
+        "maxSubmissions": null,
+        "slotsRemaining": null,
+        "requiresPremium": false,
+        "score": 47
+      },
+      {
+        "id": "9f881000-866b-4366-a057-292645172adf",
+        "title": "JOIN RAYCASH APP POINTS SYSTEM",
+        "url": "https://gib.work/bounty/9f881000-866b-4366-a057-292645172adf",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-23T14:49:33.695Z",
+        "deadline": "2026-10-07T14:39:23.434Z",
+        "tags": [
+          "Design"
+        ],
+        "rewardRaw": "5000000",
+        "rewardHuman": 5,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 47,
+        "maxSubmissions": 10,
+        "slotsRemaining": 0,
+        "requiresPremium": true,
+        "score": 32
+      },
+      {
+        "id": "cc14599e-ed38-4bdc-b55a-09cd8f8c1010",
+        "title": "Refer. Share. Win upto $300 USDC",
+        "url": "https://gib.work/bounty/cc14599e-ed38-4bdc-b55a-09cd8f8c1010",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-10T14:47:47.610Z",
+        "deadline": "2026-10-11T18:30:00.000Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "120000000000",
+        "rewardHuman": 120,
+        "rewardSymbol": "CREDITS",
+        "rewardMint": "29bHTjaAH8VCLbsSxeGKFr3YeoQWf6BkStTgnCJmGsRT",
+        "decimals": 9,
+        "totalSubmissions": 241,
+        "maxSubmissions": 400,
+        "slotsRemaining": 159,
+        "requiresPremium": false,
+        "score": 31
+      },
+      {
+        "id": "5f073804-bb43-49c9-99c0-3fb498180465",
+        "title": "Create a UGC Video Bounty for the Gibwork Mobile App",
+        "url": "https://gib.work/bounty/5f073804-bb43-49c9-99c0-3fb498180465",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-16T22:45:10.574Z",
+        "deadline": "2026-10-30T04:00:00.000Z",
+        "tags": [
+          "Social Media"
+        ],
+        "rewardRaw": "300000000",
+        "rewardHuman": 300,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 29,
+        "maxSubmissions": null,
+        "slotsRemaining": null,
+        "requiresPremium": false,
+        "score": 21
+      },
+      {
+        "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
+        "title": "Gibwork Developer Hackathon Bounty",
+        "url": "https://gib.work/bounty/1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
+        "status": "CREATED",
+        "isOpen": true,
+        "createdAt": "2026-09-08T18:26:43.726Z",
+        "deadline": "2026-10-30T04:00:00.000Z",
+        "tags": [
+          "Development"
+        ],
+        "rewardRaw": "1000000000",
+        "rewardHuman": 1000,
+        "rewardSymbol": "USDC",
+        "rewardMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "totalSubmissions": 5,
+        "maxSubmissions": null,
+        "slotsRemaining": null,
+        "requiresPremium": false,
+        "score": 19
+      }
+    ]
+  }
+}
