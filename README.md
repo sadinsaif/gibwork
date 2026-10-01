@@ -74,8 +74,8 @@ Everything in this README's [Sample output](#sample-output) section was captured
 
 ```bash
 # 1. Clone and enter the project
-git clone <this-repo-url>
-cd earn
+git clone https://github.com/sadinsaif/gibwork.git
+cd gibwork
 
 # 2. Install dependencies
 npm install
